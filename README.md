@@ -6,9 +6,13 @@ software.
 ```plaintext
 Non-Exemplary Notice
 
-This software is distributed in the hope that it will be useful, but "AS IS", and WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, including, but not limited to, the warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+This software is distributed in the hope that it will be useful, but
+"AS IS", and WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, including,
+but not limited to, the warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
 
-Please see the license for the specific nuances regarding the software's licensing.
+Please see the license for the specific nuances regarding the software's
+licensing.
 
 This notice should be attached to any significant copies of the software.
 ```
